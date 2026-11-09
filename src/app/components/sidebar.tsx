@@ -10,6 +10,7 @@ import {
   Settings,
   CircleHelp,
   Boxes,
+  ClipboardList,
 } from "lucide-react";
 
 const sections = [
@@ -31,7 +32,16 @@ const sections = [
   {
     label: "INSIGHTS",
     links: [
-      { name: "Analytics", href: "#analytics", icon: ChartNoAxesCombined },
+        {
+        name: "Restock Recommendations",
+        href: "/restock",
+        icon: ClipboardList,
+        },
+        {
+        name: "Analytics",
+        href: "#analytics",
+        icon: ChartNoAxesCombined,
+        },
     ],
   },
 ];
