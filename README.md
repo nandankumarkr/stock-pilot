@@ -242,9 +242,9 @@ The project can be tested by verifying:
 
 ## 11. Team Contributions
 
-**Team Member 1:** [Add name and actual contributions]
+**Team Member 1:** Nandan kumar 
 
-**Team Member 2:** [Add name and actual contributions]
+**Team Member 2:** Muhammad Uzair
 
 Update this section with the work actually completed by each member.
 
